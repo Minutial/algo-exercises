@@ -1,0 +1,39 @@
+   [HR] Mini-Max Sum
+   [HR] 2D Array
+   [HR] Alternating Characters
+   [HR] Ransom Note
+   [HR] Left Rotation
+   [HR] Making Anagrams
+   [HR] Two Strings
+   [HR] Subarray Division
+   [HR] Compare the Triplets
+   [HR] Diagonal Difference
+   [HR] Plus Minus
+   [HR] Time Conversion
+   [HR] Birthday Cake Candles
+   [HR] CamelCase
+   [HR] Strong Password
+[HR] Gemstones
+   [HR] Super Reduced String
+     [CW-6] Highest Scoring Word
+[CW-6] Street Fighter 2 (Character Selection)
+     [CW-6] Find the unique number
+     [CW-6] String array duplicates
+     [CW-6] Calculate String Rotation
+     [CW-6] Pascal's Triangle
+[CW-6] Separate The Wheat From The Chaff
+[CW-6] Which are in?
+[CW-5] Valid Parentheses
+     [CW-5] Simple Pig Latin
+[CW-6] Duplicates. Duplicates Everywhere.
+[CW-6] Find the odd int
+[CW-6] Most profit from stock quotes
+     [CW-6] Multiples of 3 or 5
+[CW-6] Character with longest consecutive repetition
+[CW-6] 23 Matches. Or more...
+[CW-6] Pile of towels
+[CW-6] Are they the "same"?
+[CW-6] Bishop Movement checker
+[CW-6] Fold an array
+[CW-6] Unique In Order
+     [CW-7] Russian plurals
