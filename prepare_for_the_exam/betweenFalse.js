@@ -7,18 +7,18 @@ contentFilter([1,2,0,3,4,0,5,6]);    Should return [1,2,5,6].
 contentFilter([1,2,0,3,4,5,6]);      Should return [1,2] because there is no finishing zero.
 contentFilter([1, 2, 0, 3, 4, 0, 5, 0, 12, 0, -2]) 
                                     Should return [1, 2, 5, -2] as only things between pairs of zeroes are removed.
-                                    */
+*/
 
-                                    function contentFilter(numbers) {
-                                      let result = [];
-                                      let betweenZeros = false;
-                                      for (let i=0; i < numbers.length; i++ ){
-                                      if (numbers[i]===0){
-                                          betweenZeros = !betweenZeros;
-                                      } else if (betweenZeros === false){
-                                          result.push(numbers[i])
-                                      }
-                                      }   
-                                      return result
-                                  }
-                                  console.log(contentFilter([1, 2, 0, 3, 4, 0, 5, 0, 12, 0, -2]))
+function contentFilter(numbers) {
+    let result = [];
+    let betweenZeros = false;
+    for (let i=0; i < numbers.length; i++ ){
+    if (numbers[i]===0){
+        betweenZeros = !betweenZeros;
+    } else if (betweenZeros === false){
+        result.push(numbers[i])
+    }
+    }   
+    return result
+}
+console.log(contentFilter([1, 2, 0, 3, 4, 0, 5, 0, 12, 0, -2]))
